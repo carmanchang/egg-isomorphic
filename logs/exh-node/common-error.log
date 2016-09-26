@@ -1,0 +1,16 @@
+2016-09-21 15:26:36,771 ERROR 4841 [-/127.0.0.1/-/7473ms GET /news] nodejs.ResponseTimeoutError: Response timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/item/12541966.json -1 (connected: true, keepalive socket: false, agent status: {"createSocketCount":30,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":15,"freeSockets":{"hacker-news.firebaseio.com:443::::::::":14},"sockets":{"hacker-news.firebaseio.com:443::::::::":15},"requests":{}})
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/wangxiangzhong/exhibition/exh-node/node_modules/egg/node_modules/urllib/lib/urllib.js:709:15)
+    at tryOnTimeout (timers.js:232:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+name: 'ResponseTimeoutError'
+requestId: 23
+data: undefined
+path: '/v0/item/12541966.json'
+status: -1
+headers: {}
+res: { status: -1,statusCode: -1,headers: {},size: 0,aborted: false,rt: 5291,keepAliveSocket: false,data: undefined,requestUrls: [ 'https://hacker-news.firebaseio.com/v0/item/12541966.json' ],timing: null,remoteAddress: '104.154.121.250',remotePort: 443 }
+pid: 4841
+hostname: wangxiangzhongdeMacBook-Pro.local
+

@@ -1,0 +1,354 @@
+2016-09-20 14:20:36,152 INFO 11536 [-/127.0.0.1/-/19ms GET /] status 301 (rt: 18ms)
+2016-09-20 14:20:38,492 INFO 11536 [-/127.0.0.1/-/2327ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/topstories.json 2324ms
+2016-09-20 14:20:38,868 INFO 11536 [-/127.0.0.1/-/2703ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12536934.json 374ms
+2016-09-20 14:20:39,814 INFO 11536 [-/127.0.0.1/-/3649ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12536050.json 1309ms
+2016-09-20 14:20:39,815 INFO 11536 [-/127.0.0.1/-/3650ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12532347.json 1298ms
+2016-09-20 14:20:39,817 INFO 11536 [-/127.0.0.1/-/3652ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12532544.json 1293ms
+2016-09-20 14:20:39,820 INFO 11536 [-/127.0.0.1/-/3654ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12536211.json 1323ms
+2016-09-20 14:20:39,824 INFO 11536 [-/127.0.0.1/-/3659ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12536446.json 1295ms
+2016-09-20 14:20:39,826 INFO 11536 [-/127.0.0.1/-/3661ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12533631.json 1295ms
+2016-09-20 14:20:39,828 INFO 11536 [-/127.0.0.1/-/3663ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12534067.json 1324ms
+2016-09-20 14:20:39,830 INFO 11536 [-/127.0.0.1/-/3665ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12534850.json 1316ms
+2016-09-20 14:20:39,832 INFO 11536 [-/127.0.0.1/-/3667ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12535553.json 1323ms
+2016-09-20 14:20:39,835 INFO 11536 [-/127.0.0.1/-/3670ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12535481.json 1312ms
+2016-09-20 14:20:39,836 INFO 11536 [-/127.0.0.1/-/3671ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12536871.json 1338ms
+2016-09-20 14:20:39,837 INFO 11536 [-/127.0.0.1/-/3672ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12531887.json 1311ms
+2016-09-20 14:20:39,838 INFO 11536 [-/127.0.0.1/-/3673ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12535081.json 1325ms
+2016-09-20 14:20:39,838 INFO 11536 [-/127.0.0.1/-/3673ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12532686.json 1330ms
+2016-09-20 14:20:39,838 INFO 11536 [-/127.0.0.1/-/3673ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12536264.json 1335ms
+2016-09-20 14:20:39,842 INFO 11536 [-/127.0.0.1/-/3677ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12533975.json 1309ms
+2016-09-20 14:20:39,843 INFO 11536 [-/127.0.0.1/-/3678ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12534638.json 1344ms
+2016-09-20 14:20:39,846 INFO 11536 [-/127.0.0.1/-/3681ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12536342.json 1324ms
+2016-09-20 14:20:39,849 INFO 11536 [-/127.0.0.1/-/3684ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12536041.json 1343ms
+2016-09-20 14:20:39,850 INFO 11536 [-/127.0.0.1/-/3685ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12537035.json 1320ms
+2016-09-20 14:20:39,852 INFO 11536 [-/127.0.0.1/-/3687ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12535424.json 1329ms
+2016-09-20 14:20:39,855 INFO 11536 [-/127.0.0.1/-/3690ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12535415.json 1348ms
+2016-09-20 14:20:39,860 INFO 11536 [-/127.0.0.1/-/3695ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12533147.json 1328ms
+2016-09-20 14:20:39,863 INFO 11536 [-/127.0.0.1/-/3698ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12535872.json 1347ms
+2016-09-20 14:20:39,864 INFO 11536 [-/127.0.0.1/-/3699ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12536895.json 1360ms
+2016-09-20 14:20:39,865 INFO 11536 [-/127.0.0.1/-/3700ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12537156.json 1364ms
+2016-09-20 14:20:39,865 INFO 11536 [-/127.0.0.1/-/3700ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12537043.json 1364ms
+2016-09-20 14:20:39,866 INFO 11536 [-/127.0.0.1/-/3701ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12533140.json 1351ms
+2016-09-20 14:20:40,850 INFO 11536 [-/127.0.0.1/-/4684ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12535880.json 2328ms
+2016-09-20 14:20:40,959 INFO 11536 [-/127.0.0.1/-/4794ms GET /news] [view] render news/list.tpl 109ms
+2016-09-20 14:20:40,960 INFO 11536 [-/127.0.0.1/-/4795ms GET /news] status 200 (http: 42184ms, view: 109ms, rt: 4795ms)
+2016-09-20 14:20:56,769 INFO 11536 [-/127.0.0.1/-/245ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/topstories.json 243ms
+2016-09-20 14:20:57,034 INFO 11536 [-/127.0.0.1/-/511ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12533895.json 257ms
+2016-09-20 14:20:57,041 INFO 11536 [-/127.0.0.1/-/518ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12535072.json 272ms
+2016-09-20 14:20:57,044 INFO 11536 [-/127.0.0.1/-/521ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12531999.json 272ms
+2016-09-20 14:20:57,045 INFO 11536 [-/127.0.0.1/-/522ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12532304.json 274ms
+2016-09-20 14:20:57,045 INFO 11536 [-/127.0.0.1/-/522ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12534575.json 275ms
+2016-09-20 14:20:57,046 INFO 11536 [-/127.0.0.1/-/523ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12531603.json 274ms
+2016-09-20 14:20:57,047 INFO 11536 [-/127.0.0.1/-/524ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12528144.json 274ms
+2016-09-20 14:20:57,047 INFO 11536 [-/127.0.0.1/-/524ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12536117.json 273ms
+2016-09-20 14:20:57,048 INFO 11536 [-/127.0.0.1/-/525ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12533079.json 277ms
+2016-09-20 14:20:57,051 INFO 11536 [-/127.0.0.1/-/528ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12532691.json 281ms
+2016-09-20 14:20:57,055 INFO 11536 [-/127.0.0.1/-/532ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12537005.json 282ms
+2016-09-20 14:20:57,056 INFO 11536 [-/127.0.0.1/-/533ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12532831.json 282ms
+2016-09-20 14:20:57,057 INFO 11536 [-/127.0.0.1/-/534ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12531273.json 282ms
+2016-09-20 14:20:57,057 INFO 11536 [-/127.0.0.1/-/534ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12530212.json 284ms
+2016-09-20 14:20:57,058 INFO 11536 [-/127.0.0.1/-/535ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12534568.json 283ms
+2016-09-20 14:20:57,058 INFO 11536 [-/127.0.0.1/-/535ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12535252.json 285ms
+2016-09-20 14:20:57,062 INFO 11536 [-/127.0.0.1/-/539ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12535383.json 289ms
+2016-09-20 14:20:57,063 INFO 11536 [-/127.0.0.1/-/540ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12532692.json 288ms
+2016-09-20 14:20:57,064 INFO 11536 [-/127.0.0.1/-/541ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12531135.json 288ms
+2016-09-20 14:20:57,066 INFO 11536 [-/127.0.0.1/-/543ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12535040.json 289ms
+2016-09-20 14:20:57,067 INFO 11536 [-/127.0.0.1/-/544ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12527203.json 290ms
+2016-09-20 14:20:57,067 INFO 11536 [-/127.0.0.1/-/544ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12529636.json 290ms
+2016-09-20 14:20:57,068 INFO 11536 [-/127.0.0.1/-/545ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12534296.json 292ms
+2016-09-20 14:20:57,070 INFO 11536 [-/127.0.0.1/-/547ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12534738.json 293ms
+2016-09-20 14:20:57,072 INFO 11536 [-/127.0.0.1/-/549ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12532948.json 295ms
+2016-09-20 14:20:57,073 INFO 11536 [-/127.0.0.1/-/550ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12503633.json 297ms
+2016-09-20 14:20:57,911 INFO 11536 [-/127.0.0.1/-/1388ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12532420.json 1135ms
+2016-09-20 14:20:57,936 INFO 11536 [-/127.0.0.1/-/1413ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12531310.json 1159ms
+2016-09-20 14:20:57,970 INFO 11536 [-/127.0.0.1/-/1447ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12536874.json 1193ms
+2016-09-20 14:20:57,971 INFO 11536 [-/127.0.0.1/-/1448ms GET /news?page=2] [http] GET https://hacker-news.firebaseio.com/v0/item/12533482.json 1194ms
+2016-09-20 14:20:58,021 INFO 11536 [-/127.0.0.1/-/1498ms GET /news?page=2] [view] render news/list.tpl 49ms
+2016-09-20 14:20:58,022 INFO 11536 [-/127.0.0.1/-/1499ms GET /news?page=2] status 200 (http: 12262ms, view: 49ms, rt: 1499ms)
+2016-09-20 14:25:15,125 INFO 11718 [-/127.0.0.1/-/16ms GET /] status 301 (rt: 16ms)
+2016-09-20 14:25:16,391 INFO 11718 [-/127.0.0.1/-/1260ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/topstories.json 1258ms
+2016-09-20 14:25:16,706 INFO 11718 [-/127.0.0.1/-/1575ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12536934.json 314ms
+2016-09-20 14:25:17,731 INFO 11718 [-/127.0.0.1/-/2600ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12535424.json 1306ms
+2016-09-20 14:25:17,732 INFO 11718 [-/127.0.0.1/-/2601ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12537043.json 1326ms
+2016-09-20 14:25:17,734 INFO 11718 [-/127.0.0.1/-/2603ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12535481.json 1310ms
+2016-09-20 14:25:17,737 INFO 11718 [-/127.0.0.1/-/2606ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12535553.json 1324ms
+2016-09-20 14:25:17,737 INFO 11718 [-/127.0.0.1/-/2606ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12536446.json 1306ms
+2016-09-20 14:25:17,738 INFO 11718 [-/127.0.0.1/-/2607ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12537156.json 1333ms
+2016-09-20 14:25:17,739 INFO 11718 [-/127.0.0.1/-/2608ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12536211.json 1345ms
+2016-09-20 14:25:17,740 INFO 11718 [-/127.0.0.1/-/2609ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12535081.json 1326ms
+2016-09-20 14:25:17,741 INFO 11718 [-/127.0.0.1/-/2610ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12536050.json 1331ms
+2016-09-20 14:25:17,741 INFO 11718 [-/127.0.0.1/-/2610ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12533631.json 1309ms
+2016-09-20 14:25:17,742 INFO 11718 [-/127.0.0.1/-/2611ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12534638.json 1338ms
+2016-09-20 14:25:17,743 INFO 11718 [-/127.0.0.1/-/2612ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12535072.json 1308ms
+2016-09-20 14:25:17,746 INFO 11718 [-/127.0.0.1/-/2615ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12535415.json 1334ms
+2016-09-20 14:25:17,746 INFO 11718 [-/127.0.0.1/-/2615ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12532686.json 1333ms
+2016-09-20 14:25:17,746 INFO 11718 [-/127.0.0.1/-/2615ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12536264.json 1337ms
+2016-09-20 14:25:17,747 INFO 11718 [-/127.0.0.1/-/2616ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12532544.json 1322ms
+2016-09-20 14:25:17,747 INFO 11718 [-/127.0.0.1/-/2616ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12536342.json 1324ms
+2016-09-20 14:25:17,748 INFO 11718 [-/127.0.0.1/-/2617ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12532347.json 1329ms
+2016-09-20 14:25:17,749 INFO 11718 [-/127.0.0.1/-/2618ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12533140.json 1332ms
+2016-09-20 14:25:17,750 INFO 11718 [-/127.0.0.1/-/2619ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12533147.json 1317ms
+2016-09-20 14:25:17,750 INFO 11718 [-/127.0.0.1/-/2619ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12537035.json 1318ms
+2016-09-20 14:25:17,751 INFO 11718 [-/127.0.0.1/-/2620ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12535880.json 1329ms
+2016-09-20 14:25:17,753 INFO 11718 [-/127.0.0.1/-/2622ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12536871.json 1357ms
+2016-09-20 14:25:17,753 INFO 11718 [-/127.0.0.1/-/2622ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12535872.json 1334ms
+2016-09-20 14:25:17,754 INFO 11718 [-/127.0.0.1/-/2623ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12534067.json 1347ms
+2016-09-20 14:25:17,758 INFO 11718 [-/127.0.0.1/-/2627ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12536895.json 1348ms
+2016-09-20 14:25:17,763 INFO 11718 [-/127.0.0.1/-/2632ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12534850.json 1348ms
+2016-09-20 14:25:17,776 INFO 11718 [-/127.0.0.1/-/2645ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12533975.json 1342ms
+2016-09-20 14:25:18,238 INFO 11718 [-/127.0.0.1/-/3107ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12536041.json 1827ms
+2016-09-20 14:25:18,349 INFO 11718 [-/127.0.0.1/-/3218ms GET /news] [view] render news/list.tpl 111ms
+2016-09-20 14:25:18,350 INFO 11718 [-/127.0.0.1/-/3219ms GET /news] status 200 (http: 40612ms, view: 111ms, rt: 3219ms)
+2016-09-20 14:25:22,202 INFO 11718 [-/127.0.0.1/-/0ms GET /home] status 200 ()
+2016-09-21 14:51:45,700 INFO 3834 [-/127.0.0.1/-/29ms GET /count] status 404 (rt: 29ms)
+2016-09-21 14:51:50,796 INFO 3834 [-/127.0.0.1/-/5ms GET /home] status 200 (rt: 5ms)
+2016-09-21 14:53:03,346 INFO 3834 [-/127.0.0.1/-/1ms GET /home] status 200 (rt: 1ms)
+2016-09-21 14:55:00,252 INFO 4130 [-/127.0.0.1/-/25ms GET /home] status 200 (rt: 25ms)
+2016-09-21 15:12:21,156 INFO 4438 [-/127.0.0.1/-/437ms GET /home] [view] render Home 426ms
+2016-09-21 15:12:21,159 INFO 4438 [-/127.0.0.1/-/440ms GET /home] status 204 (view: 426ms, rt: 439ms)
+2016-09-21 15:12:22,866 INFO 4438 [-/127.0.0.1/-/22ms GET /home] [view] render Home 21ms
+2016-09-21 15:12:22,867 INFO 4438 [-/127.0.0.1/-/23ms GET /home] status 204 (view: 21ms, rt: 23ms)
+2016-09-21 15:12:42,464 INFO 4438 [-/127.0.0.1/-/16ms GET /home] [view] render Home 15ms
+2016-09-21 15:12:42,465 INFO 4438 [-/127.0.0.1/-/17ms GET /home] status 204 (view: 15ms, rt: 17ms)
+2016-09-21 15:12:43,162 INFO 4438 [-/127.0.0.1/-/17ms GET /home] [view] render Home 17ms
+2016-09-21 15:12:43,162 INFO 4438 [-/127.0.0.1/-/17ms GET /home] status 204 (view: 17ms, rt: 17ms)
+2016-09-21 15:12:43,298 INFO 4438 [-/127.0.0.1/-/16ms GET /home] [view] render Home 16ms
+2016-09-21 15:12:43,298 INFO 4438 [-/127.0.0.1/-/16ms GET /home] status 204 (view: 16ms, rt: 16ms)
+2016-09-21 15:12:43,429 INFO 4438 [-/127.0.0.1/-/13ms GET /home] [view] render Home 12ms
+2016-09-21 15:12:43,431 INFO 4438 [-/127.0.0.1/-/15ms GET /home] status 204 (view: 12ms, rt: 15ms)
+2016-09-21 15:12:43,570 INFO 4438 [-/127.0.0.1/-/19ms GET /home] [view] render Home 19ms
+2016-09-21 15:12:43,571 INFO 4438 [-/127.0.0.1/-/20ms GET /home] status 204 (view: 19ms, rt: 20ms)
+2016-09-21 15:12:43,709 INFO 4438 [-/127.0.0.1/-/22ms GET /home] [view] render Home 21ms
+2016-09-21 15:12:43,711 INFO 4438 [-/127.0.0.1/-/23ms GET /home] status 204 (view: 21ms, rt: 23ms)
+2016-09-21 15:12:43,833 INFO 4438 [-/127.0.0.1/-/9ms GET /home] [view] render Home 8ms
+2016-09-21 15:12:43,834 INFO 4438 [-/127.0.0.1/-/20ms GET /home] status 204 (view: 8ms, rt: 19ms)
+2016-09-21 15:12:46,519 INFO 4438 [-/127.0.0.1/-/4ms GET /] status 301 (rt: 4ms)
+2016-09-21 15:12:47,937 INFO 4438 [-/127.0.0.1/-/1413ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/topstories.json 1410ms
+2016-09-21 15:12:48,249 INFO 4438 [-/127.0.0.1/-/1725ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12545966.json 312ms
+2016-09-21 15:12:49,037 INFO 4438 [-/127.0.0.1/-/2513ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12541966.json 1079ms
+2016-09-21 15:12:49,049 INFO 4438 [-/127.0.0.1/-/2525ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12541383.json 1103ms
+2016-09-21 15:12:49,051 INFO 4438 [-/127.0.0.1/-/2527ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12545059.json 1106ms
+2016-09-21 15:12:49,055 INFO 4438 [-/127.0.0.1/-/2531ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12540915.json 1100ms
+2016-09-21 15:12:49,056 INFO 4438 [-/127.0.0.1/-/2532ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12545394.json 1099ms
+2016-09-21 15:12:49,057 INFO 4438 [-/127.0.0.1/-/2533ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12541750.json 1098ms
+2016-09-21 15:12:49,059 INFO 4438 [-/127.0.0.1/-/2535ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12543073.json 1114ms
+2016-09-21 15:12:49,062 INFO 4438 [-/127.0.0.1/-/2538ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12539109.json 1122ms
+2016-09-21 15:12:49,066 INFO 4438 [-/127.0.0.1/-/2542ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12517423.json 1122ms
+2016-09-21 15:12:49,066 INFO 4438 [-/127.0.0.1/-/2542ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12539310.json 1123ms
+2016-09-21 15:12:49,070 INFO 4438 [-/127.0.0.1/-/2545ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12538936.json 1123ms
+2016-09-21 15:12:49,070 INFO 4438 [-/127.0.0.1/-/2546ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12501232.json 1122ms
+2016-09-21 15:12:49,072 INFO 4438 [-/127.0.0.1/-/2548ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12540941.json 1122ms
+2016-09-21 15:12:49,075 INFO 4438 [-/127.0.0.1/-/2551ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12538993.json 1112ms
+2016-09-21 15:12:49,080 INFO 4438 [-/127.0.0.1/-/2556ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12543080.json 1119ms
+2016-09-21 15:12:49,080 INFO 4438 [-/127.0.0.1/-/2556ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12543651.json 1137ms
+2016-09-21 15:12:49,083 INFO 4438 [-/127.0.0.1/-/2559ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12540590.json 1130ms
+2016-09-21 15:12:49,084 INFO 4438 [-/127.0.0.1/-/2560ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12545878.json 1137ms
+2016-09-21 15:12:49,087 INFO 4438 [-/127.0.0.1/-/2563ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12544311.json 1127ms
+2016-09-21 15:12:49,090 INFO 4438 [-/127.0.0.1/-/2566ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12545292.json 1149ms
+2016-09-21 15:12:49,091 INFO 4438 [-/127.0.0.1/-/2567ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12541108.json 1145ms
+2016-09-21 15:12:49,093 INFO 4438 [-/127.0.0.1/-/2569ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12544987.json 1142ms
+2016-09-21 15:12:49,095 INFO 4438 [-/127.0.0.1/-/2571ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12544881.json 1156ms
+2016-09-21 15:12:49,096 INFO 4438 [-/127.0.0.1/-/2572ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12544284.json 1154ms
+2016-09-21 15:12:49,097 INFO 4438 [-/127.0.0.1/-/2573ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12542551.json 1150ms
+2016-09-21 15:12:49,122 INFO 4438 [-/127.0.0.1/-/2598ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12510999.json 1160ms
+2016-09-21 15:12:49,178 INFO 4438 [-/127.0.0.1/-/2653ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12527716.json 1229ms
+2016-09-21 15:12:49,179 INFO 4438 [-/127.0.0.1/-/2655ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12540545.json 1227ms
+2016-09-21 15:12:49,187 INFO 4438 [-/127.0.0.1/-/2663ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12543342.json 1246ms
+2016-09-21 15:12:56,200 INFO 4438 [-/127.0.0.1/-/304ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/topstories.json 303ms
+2016-09-21 15:12:56,484 INFO 4438 [-/127.0.0.1/-/588ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12538993.json 273ms
+2016-09-21 15:12:56,489 INFO 4438 [-/127.0.0.1/-/593ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12544881.json 288ms
+2016-09-21 15:12:56,491 INFO 4438 [-/127.0.0.1/-/595ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12545292.json 289ms
+2016-09-21 15:12:56,492 INFO 4438 [-/127.0.0.1/-/596ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12544284.json 289ms
+2016-09-21 15:12:56,493 INFO 4438 [-/127.0.0.1/-/597ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12543342.json 291ms
+2016-09-21 15:12:56,494 INFO 4438 [-/127.0.0.1/-/598ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12545966.json 294ms
+2016-09-21 15:12:56,494 INFO 4438 [-/127.0.0.1/-/598ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12539109.json 292ms
+2016-09-21 15:12:56,496 INFO 4438 [-/127.0.0.1/-/600ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12517423.json 292ms
+2016-09-21 15:12:56,497 INFO 4438 [-/127.0.0.1/-/601ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12541383.json 293ms
+2016-09-21 15:12:56,500 INFO 4438 [-/127.0.0.1/-/604ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12539310.json 297ms
+2016-09-21 15:12:56,501 INFO 4438 [-/127.0.0.1/-/605ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12543651.json 298ms
+2016-09-21 15:12:56,501 INFO 4438 [-/127.0.0.1/-/605ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12541750.json 292ms
+2016-09-21 15:12:56,503 INFO 4438 [-/127.0.0.1/-/607ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12543073.json 299ms
+2016-09-21 15:12:56,504 INFO 4438 [-/127.0.0.1/-/608ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12527716.json 298ms
+2016-09-21 15:12:56,505 INFO 4438 [-/127.0.0.1/-/609ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12540941.json 299ms
+2016-09-21 15:12:56,505 INFO 4438 [-/127.0.0.1/-/609ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12501232.json 300ms
+2016-09-21 15:12:56,506 INFO 4438 [-/127.0.0.1/-/610ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12542551.json 301ms
+2016-09-21 15:12:56,506 INFO 4438 [-/127.0.0.1/-/610ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12544987.json 298ms
+2016-09-21 15:12:56,507 INFO 4438 [-/127.0.0.1/-/611ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12541108.json 302ms
+2016-09-21 15:12:56,507 INFO 4438 [-/127.0.0.1/-/611ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12541966.json 298ms
+2016-09-21 15:12:56,508 INFO 4438 [-/127.0.0.1/-/612ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12538936.json 304ms
+2016-09-21 15:12:56,509 INFO 4438 [-/127.0.0.1/-/613ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12545394.json 300ms
+2016-09-21 15:12:56,509 INFO 4438 [-/127.0.0.1/-/613ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12544311.json 299ms
+2016-09-21 15:12:56,509 INFO 4438 [-/127.0.0.1/-/613ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12545059.json 305ms
+2016-09-21 15:12:56,510 INFO 4438 [-/127.0.0.1/-/614ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12543080.json 300ms
+2016-09-21 15:12:56,510 INFO 4438 [-/127.0.0.1/-/614ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12540545.json 302ms
+2016-09-21 15:12:56,511 INFO 4438 [-/127.0.0.1/-/615ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12540590.json 303ms
+2016-09-21 15:12:56,511 INFO 4438 [-/127.0.0.1/-/615ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12545878.json 306ms
+2016-09-21 15:12:56,511 INFO 4438 [-/127.0.0.1/-/615ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12540915.json 302ms
+2016-09-21 15:12:56,512 INFO 4438 [-/127.0.0.1/-/616ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12510999.json 301ms
+2016-09-21 15:13:16,211 INFO 4438 [-/127.0.0.1/-/295ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/topstories.json 294ms
+2016-09-21 15:13:16,480 INFO 4438 [-/127.0.0.1/-/564ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12544881.json 268ms
+2016-09-21 15:13:16,481 INFO 4438 [-/127.0.0.1/-/565ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12543342.json 268ms
+2016-09-21 15:13:16,482 INFO 4438 [-/127.0.0.1/-/566ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12539109.json 270ms
+2016-09-21 15:13:16,483 INFO 4438 [-/127.0.0.1/-/567ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12545966.json 272ms
+2016-09-21 15:13:16,483 INFO 4438 [-/127.0.0.1/-/567ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12539310.json 268ms
+2016-09-21 15:13:16,484 INFO 4438 [-/127.0.0.1/-/568ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12543073.json 268ms
+2016-09-21 15:13:16,485 INFO 4438 [-/127.0.0.1/-/569ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12517423.json 269ms
+2016-09-21 15:13:16,486 INFO 4438 [-/127.0.0.1/-/570ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12545878.json 270ms
+2016-09-21 15:13:16,487 INFO 4438 [-/127.0.0.1/-/571ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12543651.json 272ms
+2016-09-21 15:13:16,488 INFO 4438 [-/127.0.0.1/-/572ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12545292.json 276ms
+2016-09-21 15:13:16,489 INFO 4438 [-/127.0.0.1/-/573ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12538936.json 272ms
+2016-09-21 15:13:16,490 INFO 4438 [-/127.0.0.1/-/574ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12544284.json 276ms
+2016-09-21 15:13:16,491 INFO 4438 [-/127.0.0.1/-/575ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12541108.json 274ms
+2016-09-21 15:13:16,492 INFO 4438 [-/127.0.0.1/-/576ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12542551.json 274ms
+2016-09-21 15:13:16,493 INFO 4438 [-/127.0.0.1/-/577ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12501232.json 275ms
+2016-09-21 15:13:16,493 INFO 4438 [-/127.0.0.1/-/577ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12545059.json 277ms
+2016-09-21 15:13:16,494 INFO 4438 [-/127.0.0.1/-/578ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12540915.json 274ms
+2016-09-21 15:13:16,495 INFO 4438 [-/127.0.0.1/-/579ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12544987.json 276ms
+2016-09-21 15:13:16,495 INFO 4438 [-/127.0.0.1/-/579ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12541383.json 278ms
+2016-09-21 15:13:16,496 INFO 4438 [-/127.0.0.1/-/580ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12527716.json 278ms
+2016-09-21 15:13:16,500 INFO 4438 [-/127.0.0.1/-/584ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12540545.json 281ms
+2016-09-21 15:13:16,500 INFO 4438 [-/127.0.0.1/-/584ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12543080.json 278ms
+2016-09-21 15:13:16,501 INFO 4438 [-/127.0.0.1/-/585ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12541750.json 280ms
+2016-09-21 15:13:16,501 INFO 4438 [-/127.0.0.1/-/585ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12540941.json 283ms
+2016-09-21 15:13:16,503 INFO 4438 [-/127.0.0.1/-/587ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12545394.json 283ms
+2016-09-21 15:13:16,504 INFO 4438 [-/127.0.0.1/-/588ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12541966.json 283ms
+2016-09-21 15:13:16,506 INFO 4438 [-/127.0.0.1/-/590ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12540590.json 287ms
+2016-09-21 15:13:16,507 INFO 4438 [-/127.0.0.1/-/591ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12544311.json 286ms
+2016-09-21 15:13:16,509 INFO 4438 [-/127.0.0.1/-/593ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12510999.json 287ms
+2016-09-21 15:13:16,510 INFO 4438 [-/127.0.0.1/-/594ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12538993.json 288ms
+2016-09-21 15:13:19,248 INFO 4438 [-/127.0.0.1/-/1ms GET /] status 301 (rt: 1ms)
+2016-09-21 15:13:19,503 INFO 4438 [-/127.0.0.1/-/250ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/topstories.json 248ms
+2016-09-21 15:13:19,800 INFO 4438 [-/127.0.0.1/-/547ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12545966.json 297ms
+2016-09-21 15:13:19,801 INFO 4438 [-/127.0.0.1/-/548ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12544881.json 297ms
+2016-09-21 15:13:19,806 INFO 4438 [-/127.0.0.1/-/553ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12543651.json 300ms
+2016-09-21 15:13:19,812 INFO 4438 [-/127.0.0.1/-/553ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12543342.json 302ms
+2016-09-21 15:13:19,812 INFO 4438 [-/127.0.0.1/-/559ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12544284.json 306ms
+2016-09-21 15:13:19,813 INFO 4438 [-/127.0.0.1/-/560ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12539109.json 309ms
+2016-09-21 15:13:19,814 INFO 4438 [-/127.0.0.1/-/561ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12541108.json 305ms
+2016-09-21 15:13:19,815 INFO 4438 [-/127.0.0.1/-/562ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12545059.json 308ms
+2016-09-21 15:13:19,816 INFO 4438 [-/127.0.0.1/-/562ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12540941.json 304ms
+2016-09-21 15:13:19,817 INFO 4438 [-/127.0.0.1/-/564ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12545878.json 310ms
+2016-09-21 15:13:19,818 INFO 4438 [-/127.0.0.1/-/565ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12538936.json 310ms
+2016-09-21 15:13:19,820 INFO 4438 [-/127.0.0.1/-/565ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12541383.json 310ms
+2016-09-21 15:13:19,821 INFO 4438 [-/127.0.0.1/-/568ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12540545.json 307ms
+2016-09-21 15:13:19,821 INFO 4438 [-/127.0.0.1/-/568ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12501232.json 311ms
+2016-09-21 15:13:19,823 INFO 4438 [-/127.0.0.1/-/570ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12538993.json 303ms
+2016-09-21 15:13:19,824 INFO 4438 [-/127.0.0.1/-/571ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12527716.json 313ms
+2016-09-21 15:13:19,828 INFO 4438 [-/127.0.0.1/-/575ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12540915.json 313ms
+2016-09-21 15:13:19,829 INFO 4438 [-/127.0.0.1/-/576ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12542551.json 319ms
+2016-09-21 15:13:19,830 INFO 4438 [-/127.0.0.1/-/577ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12543073.json 322ms
+2016-09-21 15:13:19,830 INFO 4438 [-/127.0.0.1/-/577ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12544311.json 312ms
+2016-09-21 15:13:19,831 INFO 4438 [-/127.0.0.1/-/578ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12540590.json 316ms
+2016-09-21 15:13:19,831 INFO 4438 [-/127.0.0.1/-/578ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12545292.json 327ms
+2016-09-21 15:13:19,833 INFO 4438 [-/127.0.0.1/-/580ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12541966.json 317ms
+2016-09-21 15:13:19,834 INFO 4438 [-/127.0.0.1/-/581ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12539310.json 328ms
+2016-09-21 15:13:19,836 INFO 4438 [-/127.0.0.1/-/583ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12541750.json 319ms
+2016-09-21 15:13:19,838 INFO 4438 [-/127.0.0.1/-/585ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12517423.json 331ms
+2016-09-21 15:13:19,838 INFO 4438 [-/127.0.0.1/-/585ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12544987.json 324ms
+2016-09-21 15:13:19,839 INFO 4438 [-/127.0.0.1/-/586ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12545394.json 323ms
+2016-09-21 15:13:19,840 INFO 4438 [-/127.0.0.1/-/587ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12543080.json 321ms
+2016-09-21 15:13:19,841 INFO 4438 [-/127.0.0.1/-/588ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12510999.json 322ms
+2016-09-21 15:13:22,914 INFO 4438 [-/127.0.0.1/-/23ms GET /home] [view] render Home 22ms
+2016-09-21 15:13:22,915 INFO 4438 [-/127.0.0.1/-/24ms GET /home] status 204 (view: 22ms, rt: 24ms)
+2016-09-21 15:13:23,035 INFO 4438 [-/127.0.0.1/-/29ms GET /home] [view] render Home 28ms
+2016-09-21 15:13:23,035 INFO 4438 [-/127.0.0.1/-/29ms GET /home] status 204 (view: 28ms, rt: 29ms)
+2016-09-21 15:15:44,891 INFO 4471 [-/127.0.0.1/-/55ms GET /] status 301 (rt: 55ms)
+2016-09-21 15:15:45,518 INFO 4471 [-/127.0.0.1/-/618ms GET /home] [view] render Home 615ms
+2016-09-21 15:15:45,519 INFO 4471 [-/127.0.0.1/-/619ms GET /home] status 204 (view: 615ms, rt: 619ms)
+2016-09-21 15:15:49,936 INFO 4471 [-/127.0.0.1/-/17ms GET /home] [view] render Home 16ms
+2016-09-21 15:15:49,937 INFO 4471 [-/127.0.0.1/-/18ms GET /home] status 204 (view: 16ms, rt: 18ms)
+2016-09-21 15:16:01,084 INFO 4468 [-/::1/-/35ms GET /] status 301 (rt: 34ms)
+2016-09-21 15:16:01,714 INFO 4468 [-/::1/-/622ms GET /home] [view] render Home 619ms
+2016-09-21 15:16:01,716 INFO 4468 [-/::1/-/624ms GET /home] status 204 (view: 619ms, rt: 624ms)
+2016-09-21 15:20:01,349 INFO 4636 [-/127.0.0.1/-/14ms GET /] status 301 (rt: 13ms)
+2016-09-21 15:20:01,742 INFO 4636 [-/127.0.0.1/-/387ms GET /home] [view] render Home 385ms
+2016-09-21 15:20:01,743 INFO 4636 [-/127.0.0.1/-/388ms GET /home] status 204 (view: 385ms, rt: 388ms)
+2016-09-21 15:20:09,870 INFO 4636 [-/127.0.0.1/-/21ms GET /home] [view] render Home 19ms
+2016-09-21 15:20:09,871 INFO 4636 [-/127.0.0.1/-/22ms GET /home] status 204 (view: 19ms, rt: 22ms)
+2016-09-21 15:20:17,242 INFO 4636 [-/127.0.0.1/-/13ms GET /home] [view] render Home 12ms
+2016-09-21 15:20:17,242 INFO 4636 [-/127.0.0.1/-/13ms GET /home] status 204 (view: 12ms, rt: 13ms)
+2016-09-21 15:20:26,679 INFO 4637 [-/127.0.0.1/-/24ms GET /] status 301 (rt: 23ms)
+2016-09-21 15:20:27,178 INFO 4637 [-/127.0.0.1/-/492ms GET /home] [view] render Home 491ms
+2016-09-21 15:20:27,179 INFO 4637 [-/127.0.0.1/-/494ms GET /home] status 204 (view: 491ms, rt: 494ms)
+2016-09-21 15:20:31,757 INFO 4637 [-/127.0.0.1/-/36ms GET /home] [view] render Home 29ms
+2016-09-21 15:20:31,758 INFO 4637 [-/127.0.0.1/-/37ms GET /home] status 204 (view: 29ms, rt: 37ms)
+2016-09-21 15:20:46,847 INFO 4638 [-/127.0.0.1/-/1184ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/topstories.json 1172ms
+2016-09-21 15:20:47,172 INFO 4638 [-/127.0.0.1/-/1510ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12545966.json 324ms
+2016-09-21 15:20:47,919 INFO 4638 [-/127.0.0.1/-/2257ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12541966.json 1037ms
+2016-09-21 15:20:47,923 INFO 4638 [-/127.0.0.1/-/2261ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12545292.json 1065ms
+2016-09-21 15:20:47,925 INFO 4638 [-/127.0.0.1/-/2263ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12543651.json 1063ms
+2016-09-21 15:20:47,925 INFO 4638 [-/127.0.0.1/-/2263ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12517423.json 1061ms
+2016-09-21 15:20:47,929 INFO 4638 [-/127.0.0.1/-/2267ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12541750.json 1046ms
+2016-09-21 15:20:47,930 INFO 4638 [-/127.0.0.1/-/2268ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12540915.json 1050ms
+2016-09-21 15:20:47,931 INFO 4638 [-/127.0.0.1/-/2269ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12545878.json 1072ms
+2016-09-21 15:20:47,932 INFO 4638 [-/127.0.0.1/-/2270ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12539109.json 1075ms
+2016-09-21 15:20:47,938 INFO 4638 [-/127.0.0.1/-/2276ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12545394.json 1055ms
+2016-09-21 15:20:47,939 INFO 4638 [-/127.0.0.1/-/2277ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12541383.json 1071ms
+2016-09-21 15:20:47,940 INFO 4638 [-/127.0.0.1/-/2278ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12538936.json 1075ms
+2016-09-21 15:20:47,942 INFO 4638 [-/127.0.0.1/-/2280ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12501232.json 1070ms
+2016-09-21 15:20:47,943 INFO 4638 [-/127.0.0.1/-/2280ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12539310.json 1079ms
+2016-09-21 15:20:47,943 INFO 4638 [-/127.0.0.1/-/2281ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12540545.json 1064ms
+2016-09-21 15:20:47,944 INFO 4638 [-/127.0.0.1/-/2282ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12543342.json 1084ms
+2016-09-21 15:20:47,945 INFO 4638 [-/127.0.0.1/-/2283ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12510999.json 1055ms
+2016-09-21 15:20:47,945 INFO 4638 [-/127.0.0.1/-/2283ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12545059.json 1079ms
+2016-09-21 15:20:47,948 INFO 4638 [-/127.0.0.1/-/2286ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12542551.json 1077ms
+2016-09-21 15:20:47,952 INFO 4638 [-/127.0.0.1/-/2290ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12540590.json 1072ms
+2016-09-21 15:20:47,953 INFO 4638 [-/127.0.0.1/-/2291ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12543080.json 1066ms
+2016-09-21 15:20:47,955 INFO 4638 [-/127.0.0.1/-/2293ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12541108.json 1085ms
+2016-09-21 15:20:47,961 INFO 4638 [-/127.0.0.1/-/2299ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12540941.json 1087ms
+2016-09-21 15:20:47,967 INFO 4638 [-/127.0.0.1/-/2305ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12544311.json 1082ms
+2016-09-21 15:20:47,968 INFO 4638 [-/127.0.0.1/-/2306ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12544318.json 1078ms
+2016-09-21 15:20:47,976 INFO 4638 [-/127.0.0.1/-/2314ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12544881.json 1121ms
+2016-09-21 15:20:47,985 INFO 4638 [-/127.0.0.1/-/2323ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12544284.json 1124ms
+2016-09-21 15:20:48,242 INFO 4638 [-/127.0.0.1/-/2580ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12527716.json 1365ms
+2016-09-21 15:20:48,246 INFO 4638 [-/127.0.0.1/-/2584ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12544987.json 1368ms
+2016-09-21 15:20:49,140 INFO 4638 [-/127.0.0.1/-/3478ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12543073.json 2274ms
+2016-09-21 15:20:56,359 INFO 4636 [-/127.0.0.1/-/29ms GET /home] [view] render Home 28ms
+2016-09-21 15:20:56,361 INFO 4636 [-/127.0.0.1/-/31ms GET /home] status 204 (view: 28ms, rt: 31ms)
+2016-09-21 15:20:56,392 INFO 4638 [-/127.0.0.1/-/507ms GET /home] [view] render Home 503ms
+2016-09-21 15:20:56,394 INFO 4638 [-/127.0.0.1/-/509ms GET /home] status 204 (view: 503ms, rt: 509ms)
+2016-09-21 15:26:31,441 INFO 4841 [-/127.0.0.1/-/2156ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/topstories.json 2141ms
+2016-09-21 15:26:31,756 INFO 4841 [-/127.0.0.1/-/2472ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12545966.json 314ms
+2016-09-21 15:26:32,539 INFO 4841 [-/127.0.0.1/-/3255ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12517423.json 1086ms
+2016-09-21 15:26:32,557 INFO 4841 [-/127.0.0.1/-/3273ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12545394.json 1090ms
+2016-09-21 15:26:32,562 INFO 4841 [-/127.0.0.1/-/3278ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12543342.json 1113ms
+2016-09-21 15:26:32,563 INFO 4841 [-/127.0.0.1/-/3279ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12538936.json 1110ms
+2016-09-21 15:26:32,564 INFO 4841 [-/127.0.0.1/-/3280ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12539310.json 1112ms
+2016-09-21 15:26:32,575 INFO 4841 [-/127.0.0.1/-/3290ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12543080.json 1106ms
+2016-09-21 15:26:32,584 INFO 4841 [-/127.0.0.1/-/3300ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12539109.json 1138ms
+2016-09-21 15:26:32,587 INFO 4841 [-/127.0.0.1/-/3303ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12541108.json 1130ms
+2016-09-21 15:26:32,593 INFO 4841 [-/127.0.0.1/-/3309ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12544318.json 1127ms
+2016-09-21 15:26:33,507 INFO 4841 [-/127.0.0.1/-/4223ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12542551.json 2049ms
+2016-09-21 15:26:34,051 INFO 4841 [-/127.0.0.1/-/4767ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12501232.json 2593ms
+2016-09-21 15:26:34,053 INFO 4841 [-/127.0.0.1/-/4769ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12544881.json 2608ms
+2016-09-21 15:26:34,362 INFO 4841 [-/127.0.0.1/-/5078ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12543651.json 2911ms
+2016-09-21 15:26:37,724 INFO 4841 [-/127.0.0.1/-/8440ms GET /news] [http] GET https://hacker-news.firebaseio.com/v0/item/12544987.json 6260ms
+2016-09-21 15:26:48,746 INFO 4841 [-/127.0.0.1/-/475ms GET /home] [view] render Home 473ms
+2016-09-21 15:26:48,748 INFO 4841 [-/127.0.0.1/-/477ms GET /home] status 204 (view: 473ms, rt: 477ms)
+2016-09-21 15:31:11,496 INFO 5076 [-/127.0.0.1/-/30ms GET /news] status 404 (rt: 29ms)
+2016-09-21 15:31:23,574 INFO 5076 [-/127.0.0.1/-/403ms GET /home] [view] render Home 400ms
+2016-09-21 15:31:23,575 INFO 5076 [-/127.0.0.1/-/404ms GET /home] status 200 (view: 400ms, rt: 404ms)
+2016-09-21 16:26:46,885 INFO 5458 [-/127.0.0.1/-/681ms GET /home] [view] render Home 655ms
+2016-09-21 16:26:46,887 INFO 5458 [-/127.0.0.1/-/683ms GET /home] status 200 (view: 655ms, rt: 683ms)
+2016-09-21 16:37:10,647 INFO 5531 [-/127.0.0.1/-/2070ms GET /home] [view] render Home 2042ms
+2016-09-21 16:37:10,651 INFO 5531 [-/127.0.0.1/-/2075ms GET /home] status 200 (view: 2042ms, rt: 2074ms)
+2016-09-21 16:37:12,929 INFO 5531 [-/127.0.0.1/-/30ms GET /home] [view] render Home 28ms
+2016-09-21 16:37:12,930 INFO 5531 [-/127.0.0.1/-/31ms GET /home] status 200 (view: 28ms, rt: 31ms)
+2016-09-21 16:37:14,735 INFO 5531 [-/127.0.0.1/-/55ms GET /home] [view] render Home 54ms
+2016-09-21 16:37:14,736 INFO 5531 [-/127.0.0.1/-/56ms GET /home] status 200 (view: 54ms, rt: 56ms)
+2016-09-21 16:39:20,508 INFO 5705 [-/127.0.0.1/-/688ms GET /home] [view] render Home 678ms
+2016-09-21 16:39:20,510 INFO 5705 [-/127.0.0.1/-/691ms GET /home] status 200 (view: 678ms, rt: 691ms)
+2016-09-21 16:40:08,270 INFO 5705 [-/127.0.0.1/-/170ms GET /home] [view] render Home 168ms
+2016-09-21 16:40:08,271 INFO 5705 [-/127.0.0.1/-/172ms GET /home] status 200 (view: 168ms, rt: 172ms)
+2016-09-21 17:39:01,174 INFO 5759 [-/127.0.0.1/-/787ms GET /home] [view] render Home 767ms
+2016-09-21 17:39:01,177 INFO 5759 [-/127.0.0.1/-/791ms GET /home] status 200 (view: 767ms, rt: 791ms)
+2016-09-21 17:39:03,958 INFO 5759 [-/127.0.0.1/-/34ms GET /home] [view] render Home 33ms
+2016-09-21 17:39:03,958 INFO 5759 [-/127.0.0.1/-/35ms GET /home] status 200 (view: 33ms, rt: 35ms)
+2016-09-21 17:39:05,134 INFO 5759 [-/127.0.0.1/-/27ms GET /home] [view] render Home 26ms
+2016-09-21 17:39:05,134 INFO 5759 [-/127.0.0.1/-/27ms GET /home] status 200 (view: 26ms, rt: 27ms)
+2016-09-21 17:39:06,128 INFO 5759 [-/127.0.0.1/-/36ms GET /home] [view] render Home 36ms
+2016-09-21 17:39:06,128 INFO 5759 [-/127.0.0.1/-/37ms GET /home] status 200 (view: 36ms, rt: 37ms)
+2016-09-21 17:39:06,978 INFO 5759 [-/127.0.0.1/-/20ms GET /home] [view] render Home 19ms
+2016-09-21 17:39:06,979 INFO 5759 [-/127.0.0.1/-/21ms GET /home] status 200 (view: 19ms, rt: 21ms)
+2016-09-21 17:39:08,281 INFO 5759 [-/127.0.0.1/-/22ms GET /home] [view] render Home 22ms
+2016-09-21 17:39:08,281 INFO 5759 [-/127.0.0.1/-/23ms GET /home] status 200 (view: 22ms, rt: 23ms)
