@@ -1,6 +1,6 @@
 # egg-isomorphic
 
-基于egg框架的前后端分离（页面直出）实现方案。
+基于[egg](https://github.com/eggjs/egg)框架的前后端分离（页面直出）实现方案。
 
 ## 快速开始
 
