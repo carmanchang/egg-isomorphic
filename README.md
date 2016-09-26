@@ -6,16 +6,16 @@
 
 `服务端启动：`
 ```shell
-$ tnpm install
-$ tnpm start
+$ npm install
+$ npm start
 ```
 
 `前端启动：`
 ```shell
 $ cd app/public/assets
-$ tnpm install
-$ tnpm build
-$ tnpm start
+$ npm install
+$ npm build
+$ npm start
 ```
 
 `准备就绪，去浏览器查看：`
