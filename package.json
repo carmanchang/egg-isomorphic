@@ -1,7 +1,7 @@
 {
-  "name": "exh-node",
+  "name": "egg-isomorphic",
   "version": "1.0.0",
-  "description": "展会O2O2O页面直出",
+  "description": "基于egg框架的页面直出",
   "private": true,
   "scripts": {
     "start": "node index.js",
@@ -22,7 +22,7 @@
     "react": "^15.3.2"
   },
   "devDependencies": {
-    "@ali/mm": "^5.5.5",
+    "mm": "^2.0.0",
     "autod": "^2",
     "babel": "^6.5.2",
     "babel-core": "^6.10.0",
@@ -59,6 +59,6 @@
     "type": "git",
     "url": "git@gitlab.alibaba-inc.com:exhibition/exh-node.git"
   },
-  "author": "xiangzhong.wxz@alibaba-inc.com",
+  "author": "742766812@qq.com",
   "license": "MIT"
 }
