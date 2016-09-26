@@ -47,7 +47,7 @@ Please open an issue [here](https://github.com/eggjs/egg/issues).
 |:-------------:|:-------------------------------------------------------------------|
 | Controller    | 逻辑更加简洁，专注 Web 页面的渲染                                       |
 | Service       | 负责组装和格式化 Proxy 接口提供的数据，并封装业务逻辑，被多个 Controller 使用 |
-| Proxy         | 从 Service 中细分出的数据层，专门负责跟后端获取数据。一般通过 [jar2proxy](http://gitlab.alibaba-inc.com/egg/jar2proxy) 动态生成。|
+| Proxy         | 从 Service 中细分出的数据层，专门负责跟后端获取数据。|
 
 ## egg插件编写
 
