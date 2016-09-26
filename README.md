@@ -55,5 +55,5 @@ Please open an issue [here](https://github.com/eggjs/egg/issues).
 
 | 优点           | 描述                                                               |
 |:-------------:|:-------------------------------------------------------------------|
-| 共建生态        | 譬如 [egg-security](http://gitlab.alibaba-inc.com/egg/egg-security)，[egg-hsfclient](http://gitlab.alibaba-inc.com/egg/egg-hsfclient)这些插件，沉淀了很多企业级开发的经验，可以在应用中自由选择，一键引入，极大的方便了开发者。|
-| 差异化定制      |譬如 view 插件，在 egg 里面只是定义了 view 的规范和接口，上层应用可以使用不同的插件， 如 [egg-view-nunjucks](http://gitlab.alibaba-inc.com/egg/egg-view-nunjucks), [egg-view-ejs](http://gitlab.alibaba-inc.com/egg/egg-view-ejs)来实现差异化定制。|
+| 共建生态        | 譬如 [egg-security](https://www.npmjs.com/package/egg-security)这些插件，沉淀了很多企业级开发的经验，可以在应用中自由选择，一键引入，极大的方便了开发者。|
+| 差异化定制      |譬如 view 插件，在 egg 里面只是定义了 view 的规范和接口，上层应用可以使用不同的插件， 如 [egg-view-nunjucks](https://www.npmjs.com/package/egg-view-nunjucks)来实现差异化定制。|
