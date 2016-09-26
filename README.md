@@ -29,36 +29,17 @@ $ open http://localhost:7001/news
 
 Please open an issue [here](https://github.com/eggjs/egg/issues).
 
-## 相关文档
-
-1. [egg文档](http://egg.alibaba-inc.com)
-2. [egg API文档](http://egg.alibaba-inc.com/api/index.html)
-3. [egg项目gitlab地址](http://gitlab.alibaba-inc.com/groups/egg)
-4. [Egg QuickStart - 阿里企业级 Web 基础框架](http://www.atatech.org/articles/50126)
-5. [web开发规范](http://gitlab.alibaba-inc.com/node/team/blob/master/web.md)
-6. [接入alinode监控](http://chair.alibaba-inc.com/manual/alinode)
-7. [模板引擎：egg-view-nunjucks](http://gitlab.alibaba-inc.com/egg/egg-view-nunjucks)
-8. [模板引擎：egg-view-ejs](http://gitlab.alibaba-inc.com/egg/egg-view-ejs)
-9. [模板引擎：egg-view-react](http://gitlab.alibaba-inc.com/egg/egg-view-react)
-10. [Node应用从申请到部署上线全流程总结](http://www.atatech.org/articles/46778?flag_data_from=tpp&pvid=feffbc12-b1aa-42d9-be63-6a845355ef31)
-11. [可能是目前最好的Node.js中文API文档](http://wiki.jikexueyuan.com/project/nodejs/)
-12. [egg进程启动(基于Node.js cluster模块)科普](http://www.atatech.org/articles/41493#comment)
-13. [基于egg开发的chair框架的开发文档](http://chair.alibaba-inc.com/documentation/)
-
 ## 业界相关实践
-1. [代驾 node 直出改造方案](http://www.atatech.org/articles/38683)
-2. [代驾一期 node 直出改造尝试遇到的一些问题](http://www.atatech.org/articles/38684)
-3. [通过midway来直出移动端页面提升性能](http://www.atatech.org/article/detail/34440/0?rnd=168077786&rnd=499718568)
-4. [腾讯新闻React同构直出优化实践](http://www.alloyteam.com/2016/06/tencent-news-react-isomorphic-straight-out-optimization/)
-5. [React同构实践与思考](https://segmentfault.com/a/1190000004671209)
-6. [React Koa 同构实践](http://devdeeper.com/koa-react-server-side-render/)
-7. [降低首屏时间，“直出”是个什么概念?](http://www.cnblogs.com/vajoy/p/5079943.html)
-8. [【AlloyTeam优化系列】Node直出让你的网页秒开](http://www.alloyteam.com/2015/10/optimization-of-alloyteam-series-node-directly-transferring-your-web-pages-second-opening/)
-9. [Node直出理论与实践总结](http://www.alloyteam.com/2016/07/node-straight-out/)
-10. [趣店(原分期)前端团队基于koa.js的前后端分离实践](https://cnodejs.org/topic/57b062ed144011da12ff4183)
-11. [(番外篇) 同构化的 React + Redux 服务端渲染](https://ruby-china.org/topics/29835)
-12. [React+Redux同构应用开发](http://www.aliued.com/?p=3077)
-13. [前后端分离与前端工程化](https://segmentfault.com/a/1190000006751300)
+1. [腾讯新闻React同构直出优化实践](http://www.alloyteam.com/2016/06/tencent-news-react-isomorphic-straight-out-optimization/)
+2. [React同构实践与思考](https://segmentfault.com/a/1190000004671209)
+3. [React Koa 同构实践](http://devdeeper.com/koa-react-server-side-render/)
+4. [降低首屏时间，“直出”是个什么概念?](http://www.cnblogs.com/vajoy/p/5079943.html)
+5. [【AlloyTeam优化系列】Node直出让你的网页秒开](http://www.alloyteam.com/2015/10/optimization-of-alloyteam-series-node-directly-transferring-your-web-pages-second-opening/)
+6. [Node直出理论与实践总结](http://www.alloyteam.com/2016/07/node-straight-out/)
+7. [趣店(原分期)前端团队基于koa.js的前后端分离实践](https://cnodejs.org/topic/57b062ed144011da12ff4183)
+8. [(番外篇) 同构化的 React + Redux 服务端渲染](https://ruby-china.org/topics/29835)
+9. [React+Redux同构应用开发](http://www.aliued.com/?p=3077)
+10. [前后端分离与前端工程化](https://segmentfault.com/a/1190000006751300)
 
 ## 概念说明
 
