@@ -1,0 +1,419 @@
+2016-09-20 14:19:12,387 INFO 11535 [egg:watcher:agent] watcher start success
+2016-09-20 14:19:12,319 INFO 11535 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node","rotateLogDirs":["/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"exh-node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-09-20 14:19:12,330 INFO 11535 [egg:agent] create an AgentWorkerClient for "watcher"
+2016-09-20 14:25:10,230 INFO 11717 [egg:watcher:agent] watcher start success
+2016-09-20 14:25:10,167 INFO 11717 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node","rotateLogDirs":["/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"exh-node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-09-20 14:25:10,178 INFO 11717 [egg:agent] create an AgentWorkerClient for "watcher"
+2016-09-20 14:25:30,172 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/news.js change
+2016-09-20 14:25:30,470 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/news.js change
+2016-09-20 14:25:32,231 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/news.js change
+2016-09-20 14:25:32,744 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/news.js change
+2016-09-20 14:25:33,269 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/news.js change
+2016-09-20 14:25:33,679 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/news.js change
+2016-09-20 14:25:38,457 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/extend/filter.js change
+2016-09-20 14:25:41,073 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/extend/helper.js change
+2016-09-20 14:25:46,489 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/response_time.js change
+2016-09-20 14:25:46,912 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/response_time.js change
+2016-09-20 14:25:49,074 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/response_time.js change
+2016-09-20 14:25:49,448 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/response_time.js change
+2016-09-20 14:26:07,682 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/HackerNews.js change
+2016-09-20 14:26:14,063 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/HackerNews.js change
+2016-09-20 14:26:14,673 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/HackerNews.js change
+2016-09-20 14:26:15,068 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/HackerNews.js change
+2016-09-20 14:26:27,474 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-20 14:26:27,851 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-20 14:26:31,307 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-20 14:26:31,664 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-20 14:26:31,788 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-20 14:26:32,396 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-20 14:26:32,787 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-20 14:26:33,937 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-20 14:26:35,098 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-20 14:26:39,359 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-20 14:26:44,508 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.default.js change
+2016-09-20 14:26:46,989 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.local.js change
+2016-09-20 14:26:49,347 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/plugin.js change
+2016-09-20 14:26:49,777 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/plugin.js change
+2016-09-20 15:01:35,579 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.default.js change
+2016-09-20 15:01:36,497 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.default.js change
+2016-09-20 15:01:37,097 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.default.js change
+2016-09-20 15:01:50,760 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.local.js change
+2016-09-20 15:01:51,470 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.local.js change
+2016-09-20 15:01:54,126 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.local.js change
+2016-09-20 15:01:54,771 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.local.js change
+2016-09-20 15:02:29,972 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.daily.js rename
+2016-09-20 15:02:30,046 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.daily.js rename
+2016-09-20 15:02:31,267 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.daily.js rename
+2016-09-20 15:02:44,454 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.prod.js rename
+2016-09-20 15:02:44,564 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.prod.js rename
+2016-09-20 15:02:57,686 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.prod.js change
+2016-09-20 15:02:58,124 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.prod.js change
+2016-09-20 15:02:58,621 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.prod.js change
+2016-09-20 15:03:31,646 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.prod.js change
+2016-09-20 15:03:31,967 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.prod.js change
+2016-09-20 15:04:29,632 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.default.js change
+2016-09-20 15:04:42,964 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.default.js change
+2016-09-20 15:21:17,289 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/README.md rename
+2016-09-20 15:21:17,366 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/README.md rename
+2016-09-20 15:22:48,205 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/README.md change
+2016-09-20 15:22:48,602 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/README.md change
+2016-09-20 15:22:48,975 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/README.md change
+2016-09-20 15:22:49,464 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/README.md change
+2016-09-20 15:22:50,687 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/README.md change
+2016-09-20 15:22:52,022 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/README.md change
+2016-09-20 15:22:52,607 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/README.md change
+2016-09-20 15:22:53,015 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/README.md change
+2016-09-20 15:23:23,867 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-20 15:23:24,339 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-20 15:23:26,410 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-20 15:23:45,016 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-20 15:23:45,395 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-20 15:23:53,561 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-20 15:23:57,209 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-20 15:23:57,724 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-20 15:24:50,280 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/plugin.js change
+2016-09-20 15:24:50,627 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/plugin.js change
+2016-09-20 15:24:55,463 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/plugin.js change
+2016-09-20 15:24:56,066 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/plugin.js change
+2016-09-20 15:27:27,849 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.default.js change
+2016-09-20 15:28:54,508 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/plugin.js change
+2016-09-20 15:28:54,852 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/plugin.js change
+2016-09-20 15:28:56,304 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/plugin.js change
+2016-09-20 15:28:58,808 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/plugin.js change
+2016-09-20 15:28:59,334 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/plugin.js change
+2016-09-20 15:29:02,948 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/plugin.js change
+2016-09-20 15:29:03,301 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/plugin.js change
+2016-09-20 15:29:25,074 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/news/README.md rename
+2016-09-20 15:29:25,131 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/news/README.md rename
+2016-09-20 15:29:28,961 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/news/README.md rename
+2016-09-20 15:29:38,449 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/news/README.md rename
+2016-09-20 15:29:45,329 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/news/README.md rename
+2016-09-20 15:29:45,787 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/news/README.md rename
+2016-09-20 15:29:46,092 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/news/README.md rename
+2016-09-20 15:29:47,233 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/news/README.md rename
+2016-09-20 15:29:50,324 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/plugin.js change
+2016-09-20 15:30:04,501 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/README.md rename
+2016-09-20 15:30:13,962 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/README.md change
+2016-09-20 15:30:14,631 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/README.md change
+2016-09-20 15:30:27,331 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/layout/layout.tpl change
+2016-09-20 15:30:59,847 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/README.md change
+2016-09-20 15:31:01,477 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/README.md change
+2016-09-20 15:31:04,295 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/README.md change
+2016-09-20 15:31:06,045 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/plugin.js change
+2016-09-20 15:33:25,462 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/README.md rename
+2016-09-20 15:33:25,530 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/README.md rename
+2016-09-20 15:33:46,159 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/README.md rename
+2016-09-20 15:33:46,576 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/README.md rename
+2016-09-20 15:33:51,781 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/README.md rename
+2016-09-20 15:33:52,373 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/README.md rename
+2016-09-20 15:34:07,399 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/README.md change
+2016-09-20 15:34:07,836 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/README.md change
+2016-09-20 15:34:08,264 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/README.md change
+2016-09-20 15:34:08,661 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/README.md change
+2016-09-20 15:34:09,108 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/README.md change
+2016-09-20 15:34:09,533 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/README.md change
+2016-09-20 15:34:11,228 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/README.md change
+2016-09-20 15:35:12,628 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/README.md change
+2016-09-20 15:35:13,057 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/README.md change
+2016-09-20 15:35:13,474 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/README.md change
+2016-09-20 15:35:15,983 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/README.md change
+2016-09-20 15:35:16,456 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/README.md change
+2016-09-20 15:35:17,434 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/README.md change
+2016-09-20 15:35:20,705 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/README.md change
+2016-09-20 15:35:21,178 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/README.md change
+2016-09-20 15:35:21,935 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/README.md change
+2016-09-20 15:35:22,332 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/README.md change
+2016-09-20 15:35:23,472 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/README.md change
+2016-09-20 15:35:23,840 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/README.md change
+2016-09-20 15:35:24,048 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/README.md change
+2016-09-20 15:35:24,254 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/README.md change
+2016-09-20 15:35:42,448 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/HackerNews.js change
+2016-09-20 15:35:50,314 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/HackerNews.js change
+2016-09-20 15:36:00,933 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/HackerNews.js change
+2016-09-20 15:36:07,876 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/HackerNews.js change
+2016-09-20 15:36:33,121 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/HackerNews.js change
+2016-09-20 15:36:37,252 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/HackerNews.js change
+2016-09-20 15:36:42,227 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/HackerNews.js change
+2016-09-20 15:36:42,677 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/HackerNews.js change
+2016-09-20 15:37:38,197 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/HackerNews.js change
+2016-09-20 15:37:38,552 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/HackerNews.js change
+2016-09-20 15:37:40,518 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/HackerNews.js change
+2016-09-20 15:37:46,278 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/HackerNews.js change
+2016-09-20 15:38:06,131 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/HackerNews.js change
+2016-09-20 15:38:06,551 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/HackerNews.js change
+2016-09-20 15:38:11,310 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/HackerNews.js change
+2016-09-20 15:38:15,287 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/HackerNews.js change
+2016-09-20 15:38:17,901 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/HackerNews.js change
+2016-09-20 15:38:41,591 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/HackerNews.js change
+2016-09-20 15:38:43,445 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/HackerNews.js change
+2016-09-20 15:38:47,116 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/HackerNews.js change
+2016-09-20 15:39:17,014 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/service/HackerNews.js change
+2016-09-20 15:39:23,638 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/news.js change
+2016-09-20 15:40:55,930 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/news.js change
+2016-09-20 15:40:56,352 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/news.js change
+2016-09-20 15:41:04,177 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/news.js change
+2016-09-20 15:41:05,080 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/news.js change
+2016-09-20 15:41:19,499 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/news.js change
+2016-09-20 15:41:20,004 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/news.js change
+2016-09-20 15:41:26,503 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/news.js change
+2016-09-20 15:41:28,878 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/news.js change
+2016-09-20 15:41:29,316 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/news.js change
+2016-09-20 15:49:52,905 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/extend/README.md rename
+2016-09-20 15:49:52,997 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/extend/README.md rename
+2016-09-20 15:50:34,217 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/extend/README.md change
+2016-09-20 15:50:34,697 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/extend/README.md change
+2016-09-20 15:50:38,866 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/extend/README.md change
+2016-09-20 15:51:23,352 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/extend/README.md change
+2016-09-20 15:51:23,726 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/extend/README.md change
+2016-09-20 15:51:23,806 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/extend/README.md change
+2016-09-20 15:51:23,896 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/extend/README.md change
+2016-09-20 15:51:24,112 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/extend/README.md change
+2016-09-20 15:51:49,409 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/extend/README.md change
+2016-09-20 15:51:49,677 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/extend/README.md change
+2016-09-20 15:51:52,077 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/extend/README.md change
+2016-09-20 15:51:52,574 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/extend/README.md change
+2016-09-20 15:52:01,116 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/extend/README.md change
+2016-09-20 15:52:11,121 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/extend/README.md change
+2016-09-20 15:52:11,767 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/extend/README.md change
+2016-09-20 15:52:35,008 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/extend/README.md change
+2016-09-20 15:52:39,621 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/extend/README.md change
+2016-09-20 15:52:41,653 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/extend/README.md change
+2016-09-20 15:52:43,641 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/extend/README.md change
+2016-09-20 15:52:44,350 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/extend/README.md change
+2016-09-20 15:52:44,656 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/extend/README.md change
+2016-09-20 15:55:06,657 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/extend/README.md change
+2016-09-20 15:55:07,006 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/extend/README.md change
+2016-09-20 15:55:07,495 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/extend/README.md change
+2016-09-20 15:58:21,370 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/README.md rename
+2016-09-20 15:58:21,457 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/README.md rename
+2016-09-20 15:58:25,525 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/README.md rename
+2016-09-20 15:58:26,742 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/README.md rename
+2016-09-20 15:58:27,192 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/README.md rename
+2016-09-20 15:59:46,064 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/response_time.js change
+2016-09-20 15:59:46,530 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/response_time.js change
+2016-09-20 15:59:46,983 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/response_time.js change
+2016-09-20 15:59:47,499 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/response_time.js change
+2016-09-20 15:59:54,844 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.default.js change
+2016-09-20 15:59:59,131 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/response_time.js change
+2016-09-20 16:00:00,869 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/response_time.js change
+2016-09-20 16:00:02,244 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/response_time.js change
+2016-09-20 16:00:59,342 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/response_time.js change
+2016-09-20 16:00:59,750 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/response_time.js change
+2016-09-20 16:01:02,562 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/response_time.js change
+2016-09-20 16:01:03,245 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/response_time.js change
+2016-09-20 16:01:05,947 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/response_time.js change
+2016-09-20 16:01:06,678 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/response_time.js change
+2016-09-20 16:01:07,278 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/response_time.js change
+2016-09-20 16:01:07,837 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/response_time.js change
+2016-09-20 16:01:08,444 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/response_time.js change
+2016-09-20 16:01:08,980 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/response_time.js change
+2016-09-20 16:02:26,083 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/response_time.js change
+2016-09-20 16:02:27,434 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/response_time.js change
+2016-09-20 16:02:30,555 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/response_time.js change
+2016-09-20 16:02:33,150 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/middleware/response_time.js change
+2016-09-20 16:03:06,176 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/README.md rename
+2016-09-20 16:03:06,225 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/README.md rename
+2016-09-20 16:04:14,280 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/README.md change
+2016-09-20 16:04:15,856 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/README.md change
+2016-09-20 16:04:16,302 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/README.md change
+2016-09-20 16:04:21,699 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/README.md change
+2016-09-20 16:04:22,164 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/README.md change
+2016-09-20 16:04:23,210 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/README.md change
+2016-09-20 16:04:23,597 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/README.md change
+2016-09-20 16:04:23,944 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/README.md change
+2016-09-20 16:07:01,632 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.daily.js change
+2016-09-20 16:07:02,086 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.daily.js change
+2016-09-20 16:07:02,445 WARN 11717 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.daily.js change
+2016-09-20 16:48:44,998 INFO 12935 [egg:watcher:agent] watcher start success
+2016-09-20 16:48:44,942 INFO 12935 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node","rotateLogDirs":["/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"exh-node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-09-20 16:48:44,955 INFO 12935 [egg:agent] create an AgentWorkerClient for "watcher"
+2016-09-20 16:49:17,377 INFO 12969 [egg:watcher:agent] watcher start success
+2016-09-20 16:49:17,341 INFO 12969 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node","rotateLogDirs":["/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"exh-node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-09-20 16:49:17,349 INFO 12969 [egg:agent] create an AgentWorkerClient for "watcher"
+2016-09-21 14:24:27,435 INFO 1023 [egg:watcher:agent] watcher start success
+2016-09-21 14:24:27,370 INFO 1023 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node","rotateLogDirs":["/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"exh-node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-09-21 14:24:27,381 INFO 1023 [egg:agent] create an AgentWorkerClient for "watcher"
+2016-09-21 14:32:26,181 INFO 1204 [egg:watcher:agent] watcher start success
+2016-09-21 14:32:26,086 INFO 1204 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node","rotateLogDirs":["/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"exh-node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-09-21 14:32:26,100 INFO 1204 [egg:agent] create an AgentWorkerClient for "watcher"
+2016-09-21 14:34:18,391 INFO 1920 [egg:watcher:agent] watcher start success
+2016-09-21 14:34:18,304 INFO 1920 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node","rotateLogDirs":["/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"exh-node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-09-21 14:34:18,319 INFO 1920 [egg:agent] create an AgentWorkerClient for "watcher"
+2016-09-21 14:45:36,553 INFO 3833 [egg:watcher:agent] watcher start success
+2016-09-21 14:45:36,482 INFO 3833 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node","rotateLogDirs":["/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"exh-node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-09-21 14:45:36,495 INFO 3833 [egg:agent] create an AgentWorkerClient for "watcher"
+2016-09-21 14:51:39,965 WARN 3833 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Home.js change
+2016-09-21 14:52:40,900 WARN 3833 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 14:52:41,146 WARN 3833 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 14:52:41,522 WARN 3833 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 14:53:36,628 INFO 4128 [egg:watcher:agent] watcher start success
+2016-09-21 14:53:36,567 INFO 4128 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node","rotateLogDirs":["/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"exh-node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-09-21 14:53:36,579 INFO 4128 [egg:agent] create an AgentWorkerClient for "watcher"
+2016-09-21 14:55:12,868 WARN 4128 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 14:55:13,602 WARN 4128 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 14:56:59,256 WARN 4128 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 14:57:01,294 WARN 4128 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 14:57:01,755 WARN 4128 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 14:57:02,091 WARN 4128 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 14:57:02,518 WARN 4128 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 14:57:02,935 WARN 4128 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 14:57:09,085 INFO 4167 [egg:watcher:agent] watcher start success
+2016-09-21 14:57:09,015 INFO 4167 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node","rotateLogDirs":["/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"exh-node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-09-21 14:57:09,029 INFO 4167 [egg:agent] create an AgentWorkerClient for "watcher"
+2016-09-21 14:58:28,449 WARN 4167 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 14:58:29,562 WARN 4167 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 14:58:29,617 WARN 4167 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 14:58:31,426 WARN 4167 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 14:58:31,882 WARN 4167 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 14:58:33,061 WARN 4167 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 14:59:02,504 INFO 4202 [egg:watcher:agent] watcher start success
+2016-09-21 14:59:02,439 INFO 4202 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node","rotateLogDirs":["/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"exh-node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-09-21 14:59:02,451 INFO 4202 [egg:agent] create an AgentWorkerClient for "watcher"
+2016-09-21 14:59:33,944 WARN 4202 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.default.js change
+2016-09-21 14:59:42,849 INFO 4227 [egg:watcher:agent] watcher start success
+2016-09-21 14:59:42,795 INFO 4227 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node","rotateLogDirs":["/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"exh-node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-09-21 14:59:42,803 INFO 4227 [egg:agent] create an AgentWorkerClient for "watcher"
+2016-09-21 15:02:23,772 WARN 4227 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.default.js change
+2016-09-21 15:02:24,475 WARN 4227 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.default.js change
+2016-09-21 15:02:24,966 WARN 4227 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.default.js change
+2016-09-21 15:02:25,508 WARN 4227 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.default.js change
+2016-09-21 15:02:25,767 WARN 4227 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.default.js change
+2016-09-21 15:02:27,453 WARN 4227 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.default.js change
+2016-09-21 15:03:06,564 WARN 4227 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.default.js change
+2016-09-21 15:03:21,234 INFO 4280 [egg:watcher:agent] watcher start success
+2016-09-21 15:03:21,168 INFO 4280 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node","rotateLogDirs":["/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"exh-node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-09-21 15:03:21,180 INFO 4280 [egg:agent] create an AgentWorkerClient for "watcher"
+2016-09-21 15:06:00,989 WARN 4280 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.default.js change
+2016-09-21 15:06:03,283 WARN 4280 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.default.js change
+2016-09-21 15:06:03,767 WARN 4280 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.default.js change
+2016-09-21 15:06:11,133 INFO 4334 [egg:watcher:agent] watcher start success
+2016-09-21 15:06:11,063 INFO 4334 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node","rotateLogDirs":["/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"exh-node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-09-21 15:06:11,075 INFO 4334 [egg:agent] create an AgentWorkerClient for "watcher"
+2016-09-21 15:06:27,341 WARN 4334 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.default.js change
+2016-09-21 15:10:20,038 INFO 4396 [egg:watcher:agent] watcher start success
+2016-09-21 15:10:19,982 INFO 4396 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node","rotateLogDirs":["/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"exh-node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-09-21 15:10:19,992 INFO 4396 [egg:agent] create an AgentWorkerClient for "watcher"
+2016-09-21 15:10:57,262 INFO 4436 [egg:watcher:agent] watcher start success
+2016-09-21 15:10:57,210 INFO 4436 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node","rotateLogDirs":["/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"exh-node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-09-21 15:10:57,217 INFO 4436 [egg:agent] create an AgentWorkerClient for "watcher"
+2016-09-21 15:13:06,608 WARN 4436 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-21 15:13:08,490 WARN 4436 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-21 15:13:08,632 WARN 4436 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-21 15:13:08,741 WARN 4436 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-21 15:13:33,806 INFO 4467 [egg:watcher:agent] watcher start success
+2016-09-21 15:13:33,727 INFO 4467 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node","rotateLogDirs":["/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"exh-node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-09-21 15:13:33,738 INFO 4467 [egg:agent] create an AgentWorkerClient for "watcher"
+2016-09-21 15:16:27,751 WARN 4467 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.default.js change
+2016-09-21 15:16:28,316 WARN 4467 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.default.js change
+2016-09-21 15:16:28,795 WARN 4467 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.default.js change
+2016-09-21 15:16:29,455 WARN 4467 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.default.js change
+2016-09-21 15:16:29,898 WARN 4467 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.default.js change
+2016-09-21 15:16:30,420 WARN 4467 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/config/config.default.js change
+2016-09-21 15:16:36,756 INFO 4606 [egg:watcher:agent] watcher start success
+2016-09-21 15:16:36,677 INFO 4606 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node","rotateLogDirs":["/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"exh-node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-09-21 15:16:36,697 INFO 4606 [egg:agent] create an AgentWorkerClient for "watcher"
+2016-09-21 15:18:14,571 WARN 4606 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 15:18:15,173 WARN 4606 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 15:18:15,666 WARN 4606 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 15:18:32,101 WARN 4606 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 15:18:32,450 WARN 4606 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 15:18:32,910 WARN 4606 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 15:18:45,094 INFO 4635 [egg:watcher:agent] watcher start success
+2016-09-21 15:18:45,009 INFO 4635 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node","rotateLogDirs":["/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"exh-node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-09-21 15:18:45,028 INFO 4635 [egg:agent] create an AgentWorkerClient for "watcher"
+2016-09-21 15:21:05,394 WARN 4635 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-21 15:21:07,242 WARN 4635 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-21 15:21:27,645 INFO 4786 [egg:watcher:agent] watcher start success
+2016-09-21 15:21:27,581 INFO 4786 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node","rotateLogDirs":["/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"exh-node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-09-21 15:21:27,594 INFO 4786 [egg:agent] create an AgentWorkerClient for "watcher"
+2016-09-21 15:22:49,200 WARN 4786 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 15:22:55,077 WARN 4786 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 15:22:55,651 WARN 4786 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 15:22:59,891 WARN 4786 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 15:23:00,396 WARN 4786 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 15:23:00,719 WARN 4786 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 15:23:00,952 WARN 4786 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 15:23:01,038 WARN 4786 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 15:23:01,562 WARN 4786 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 15:23:02,566 WARN 4786 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 15:23:02,815 WARN 4786 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 15:23:04,511 WARN 4786 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 15:23:51,710 WARN 4786 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Home.js change
+2016-09-21 15:24:38,018 WARN 4786 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Home.js change
+2016-09-21 15:24:58,237 WARN 4786 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Home.js change
+2016-09-21 15:24:58,574 WARN 4786 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Home.js change
+2016-09-21 15:25:05,526 WARN 4786 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Home.js change
+2016-09-21 15:25:05,978 WARN 4786 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Home.js change
+2016-09-21 15:25:06,418 WARN 4786 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Home.js change
+2016-09-21 15:25:06,710 WARN 4786 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Home.js change
+2016-09-21 15:25:15,933 INFO 4838 [egg:watcher:agent] watcher start success
+2016-09-21 15:25:15,861 INFO 4838 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node","rotateLogDirs":["/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"exh-node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-09-21 15:25:15,875 INFO 4838 [egg:agent] create an AgentWorkerClient for "watcher"
+2016-09-21 15:27:03,613 WARN 4838 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-21 15:27:04,679 WARN 4838 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-21 15:27:05,585 WARN 4838 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-21 15:27:06,160 WARN 4838 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-21 15:27:06,617 WARN 4838 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/router.js change
+2016-09-21 15:27:18,916 INFO 4964 [egg:watcher:agent] watcher start success
+2016-09-21 15:27:18,849 INFO 4964 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node","rotateLogDirs":["/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"exh-node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-09-21 15:27:18,862 INFO 4964 [egg:agent] create an AgentWorkerClient for "watcher"
+2016-09-21 15:28:55,202 WARN 4964 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 15:28:55,871 WARN 4964 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 15:29:03,913 INFO 5027 [egg:watcher:agent] watcher start success
+2016-09-21 15:29:03,834 INFO 5027 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node","rotateLogDirs":["/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"exh-node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-09-21 15:29:03,849 INFO 5027 [egg:agent] create an AgentWorkerClient for "watcher"
+2016-09-21 15:29:21,496 WARN 5027 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 15:29:22,183 WARN 5027 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 15:29:26,729 INFO 5052 [egg:watcher:agent] watcher start success
+2016-09-21 15:29:26,649 INFO 5052 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node","rotateLogDirs":["/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"exh-node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-09-21 15:29:26,667 INFO 5052 [egg:agent] create an AgentWorkerClient for "watcher"
+2016-09-21 15:29:49,705 INFO 5072 [egg:watcher:agent] watcher start success
+2016-09-21 15:29:49,629 INFO 5072 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node","rotateLogDirs":["/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"exh-node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-09-21 15:29:49,642 INFO 5072 [egg:agent] create an AgentWorkerClient for "watcher"
+2016-09-21 16:22:10,979 WARN 5072 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Home.js change
+2016-09-21 16:22:11,682 WARN 5072 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Home.js change
+2016-09-21 16:22:14,393 WARN 5072 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Home.js change
+2016-09-21 16:22:14,901 WARN 5072 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Home.js change
+2016-09-21 16:24:40,496 INFO 5454 [egg:watcher:agent] watcher start success
+2016-09-21 16:24:40,401 INFO 5454 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node","rotateLogDirs":["/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"exh-node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-09-21 16:24:40,419 INFO 5454 [egg:agent] create an AgentWorkerClient for "watcher"
+2016-09-21 16:27:54,004 WARN 5454 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Device.js change
+2016-09-21 16:27:54,711 WARN 5454 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Device.js change
+2016-09-21 16:27:55,148 WARN 5454 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Device.js change
+2016-09-21 16:27:55,490 WARN 5454 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Device.js change
+2016-09-21 16:27:58,773 WARN 5454 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Home.js change
+2016-09-21 16:27:59,362 WARN 5454 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Home.js change
+2016-09-21 16:28:08,491 WARN 5454 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Home.js change
+2016-09-21 16:28:08,958 WARN 5454 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Home.js change
+2016-09-21 16:28:11,168 WARN 5454 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Home.js change
+2016-09-21 16:28:11,565 WARN 5454 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Home.js change
+2016-09-21 16:28:12,015 WARN 5454 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Home.js change
+2016-09-21 16:28:16,378 WARN 5454 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Home.js change
+2016-09-21 16:28:16,864 WARN 5454 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Home.js change
+2016-09-21 16:28:18,062 WARN 5454 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Home.js change
+2016-09-21 16:28:18,514 WARN 5454 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Home.js change
+2016-09-21 16:28:23,274 WARN 5454 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Device.js change
+2016-09-21 16:28:35,248 WARN 5454 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/layout/Default.js change
+2016-09-21 16:28:38,095 WARN 5454 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/layout/Default.js change
+2016-09-21 16:28:38,680 WARN 5454 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/layout/Default.js change
+2016-09-21 16:28:39,094 WARN 5454 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/layout/Default.js change
+2016-09-21 16:29:01,636 WARN 5454 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/Home.js change
+2016-09-21 16:37:03,390 WARN 5454 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 16:37:03,825 WARN 5454 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 16:37:23,008 WARN 5454 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 16:37:30,247 INFO 5701 [egg:watcher:agent] watcher start success
+2016-09-21 16:37:30,176 INFO 5701 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node","rotateLogDirs":["/Users/wangxiangzhong/exhibition/exh-node/logs/exh-node"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"exh-node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-09-21 16:37:30,194 INFO 5701 [egg:agent] create an AgentWorkerClient for "watcher"
+2016-09-21 16:39:57,359 WARN 5701 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/layout/Default.js change
+2016-09-21 16:39:57,851 WARN 5701 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/layout/Default.js change
+2016-09-21 16:39:58,018 WARN 5701 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/layout/Default.js change
+2016-09-21 16:40:03,840 WARN 5701 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/layout/Default.js change
+2016-09-21 16:40:04,370 WARN 5701 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/layout/Default.js change
+2016-09-21 16:40:14,841 WARN 5701 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/layout/Default.js change
+2016-09-21 16:40:24,801 WARN 5701 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 16:40:25,401 WARN 5701 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 16:40:25,909 WARN 5701 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 16:40:26,394 WARN 5701 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-21 16:40:26,819 WARN 5701 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/controller/home.js change
+2016-09-22 15:28:24,859 WARN 5701 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/layout/Default.js change
+2016-09-22 15:28:25,461 WARN 5701 [agent:development] reload worker because /Users/wangxiangzhong/exhibition/exh-node/app/view/layout/Default.js change

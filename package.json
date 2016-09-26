@@ -1,0 +1,64 @@
+{
+  "name": "egg-isomorphic",
+  "version": "1.0.0",
+  "description": "基于egg框架的页面直出",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "pro": "EGG_SERVER_ENV=prod node index.js",
+    "dev": "egg-bin dev",
+    "test": "npm run lint && npm run test-local",
+    "test-local": "egg-bin test -r intelli-espower-loader",
+    "cov": "egg-bin cov -r intelli-espower-loader",
+    "lint": "eslint --ext js . --fix",
+    "ci": "npm run lint && npm run cov",
+    "autod": "autod"
+  },
+  "dependencies": {
+    "@ali/egg-view-react": "^1.0.6",
+    "egg": "^0.2.1",
+    "egg-view-nunjucks": "^0.3.0",
+    "moment": "^2.14.1",
+    "react": "^15.3.2"
+  },
+  "devDependencies": {
+    "mm": "^2.0.0",
+    "autod": "^2",
+    "babel": "^6.5.2",
+    "babel-core": "^6.10.0",
+    "babel-plugin-transform-export-extensions": "^6.8.0",
+    "babel-plugin-transform-react-jsx": "^6.8.0",
+    "babel-plugin-transform-runtime": "^6.9.0",
+    "babel-preset-es2015": "^6.6.0",
+    "babel-preset-react": "^6.11.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "babel-register": "^6.9.0",
+    "babel-runtime": "^6.6.1",
+    "cheerio": "^0.22.0",
+    "colors": "^1.1.2",
+    "egg-bin": "^1",
+    "egg-ci": "^1",
+    "egg-mock": "^0.0.4",
+    "eslint": "^3.5.0",
+    "eslint-config-egg": "^3.1.0",
+    "expect.js": "^0.3.1",
+    "intelli-espower-loader": "^1",
+    "mocha": "^3.0.2",
+    "power-assert": "^1",
+    "supertest": "^2.0.0",
+    "thunk-mocha": "^1.0.6"
+  },
+  "engines": {
+    "install-node": "6.4.0",
+    "node": ">=6.4.0"
+  },
+  "ci": {
+    "version": "4, 6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.alibaba-inc.com:exhibition/exh-node.git"
+  },
+  "author": "742766812@qq.com",
+  "license": "MIT"
+}

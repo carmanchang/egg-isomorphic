@@ -1,0 +1,23 @@
+default:
+  prepare:
+    exec:
+    # node 安装
+    - ls /root/nvm || git clone http://gitlab.alibaba-inc.com/node/nvm.git --depth 1 /root/nvm
+    - echo 'source /root/nvm/nvm.sh' >> /root/.bashrc
+    - nvm install 6.4.0
+    # 不要使用 nvm use
+    - nvm alias default 6.4.0
+
+    - npm install tnpm -g --silent --registry=http://registry.npm.alibaba-inc.com
+    - tnpm install -g @ali/def-ci --silent || echo 'ci install done'
+    # --unsafe-perm: http://gitlab.alibaba-inc.com/uitest/knight/issues/6
+    - tnpm install --silent --unsafe-perm || echo 'tnpm install done'
+
+    - node -v
+    - npm -v
+    - tnpm -v
+
+
+  unit_test:
+    exec:
+    - make coverage
